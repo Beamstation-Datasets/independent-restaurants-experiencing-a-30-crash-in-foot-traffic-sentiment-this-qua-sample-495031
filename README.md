@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Alabama
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 41 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `495031` |
 | Location | Alabama |
 | Category | Food and Drink |
-| Full dataset size | 378 records |
-| Free sample size | 37 records (9.79%) |
-| Last export | 2026-04-09T20:14:05.940472+00:00 |
+| Full dataset size | 412 records |
+| Free sample size | 41 records (9.95%) |
+| Last export | 2026-04-17T00:09:26.646858+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-495031/releases/download/sample-latest/beamstation_495031_food_and_drink-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
